@@ -4,7 +4,6 @@ This is an unofficial MATLAB implemenation of the paper published by S. Hu and G
 This paper tackles two main problems:
 
 1. Uplink Power Allocation Problem (PA)
-Objective: Minimize transmitting energy consumption
 Author’s solution: Non-Cooperative Game Model Based On Subgradient (NCGG)
 My implementation: Inertia Weighted Particle Swarm Optimisation
 
