@@ -1,5 +1,5 @@
 # Dynamic Request Scheduling Optimization in Mobile Edge Computing for IoT Applications
-This is an unofficial MATLAB implemenation of the paper published by S. Hu and G. Li titled "Dynamic Request Scheduling Optimization in Mobile Edge Computing for IoT Applications". You can find a copy of the same here: https://ieeexplore.ieee.org/document/8910339
+This is an unofficial MATLAB implementation of the paper published by S. Hu and G. Li titled "Dynamic Request Scheduling Optimization in Mobile Edge Computing for IoT Applications". You can find a copy of the same here: https://ieeexplore.ieee.org/document/8910339
 
 ## Introduction
 
